@@ -7,4 +7,5 @@ A GUI Python application with emplemented rasterization algorithms. Developed as
 ## Install packages
 ```
 pip install matplotlib
+pip install tkinter
 ```
